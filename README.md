@@ -18,7 +18,7 @@ A minimal Python application that displays a countdown to Iftar (sunset) time in
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/iftar-clock.git
+git clone https://github.com/concaption/iftar-clock.git
 cd iftar-clock
 ```
 
